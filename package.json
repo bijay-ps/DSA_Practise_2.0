@@ -1,0 +1,23 @@
+{
+  "name": "dsa_2.0",
+  "version": "1.0.0",
+  "description": "For practising DSA",
+  "homepage": "https://github.com/bijay-ps/DSA_Practise_2.0#readme",
+  "bugs": {
+    "url": "https://github.com/bijay-ps/DSA_Practise_2.0/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bijay-ps/DSA_Practise_2.0.git"
+  },
+  "license": "ISC",
+  "author": "bijay_ps",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --globals"
+  },
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  }
+}
